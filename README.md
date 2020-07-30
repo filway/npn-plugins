@@ -1,4 +1,4 @@
-# hello-world
+# npn-plugins
 
 ## Project setup
 ```
