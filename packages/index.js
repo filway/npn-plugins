@@ -1,6 +1,7 @@
 import search from "./search/index";
+import upload from "./upload/index";
 
-const components = [search];
+const components = [search, upload];
 
 // 定义 install 方法
 const install = function(Vue) {
